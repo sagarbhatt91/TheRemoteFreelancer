@@ -60,7 +60,8 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | [10xmanagement](https://www.10xmanagement.com/)                                          | 1,000,000      |            | Designers & Developers                    |
 | [Lightboard](https://lightboard.io)                                                      | 2,000,000      |            | Designers                                 |
 | [Dreamlance](http://dreamlance.io/)                                                      | 10,000,000     |            | Designers & Developers                    |
-| [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                |
+| [CodersClan.net](https://codersclan.net)                                                 | 10,000,000     |            | Developers                                
+| [Codechavo.com](https://codechavo.com)                                                   | 10,000,000     |            | Developers    
 
 ## Regional, or Language-Specific
 
@@ -131,6 +132,7 @@ Thank you for looking :) Good hunting!
 - https://remotework.fyi/
 - https://www.vollna.com/
 - https://remotebond.com/
+- https://www.codechavo.com/
 
 ### Bounties based and open source
 - https://gitcoin.co
